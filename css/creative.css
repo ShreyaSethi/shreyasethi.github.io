@@ -132,8 +132,8 @@ body {
             color: #F05F40; } }
 
 header.masthead {
-  padding-top: 300px;
-  padding-bottom: 400px;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
   background-image: url("../img/header.jpg");
   background-position: center center;
   -webkit-background-size: cover;
